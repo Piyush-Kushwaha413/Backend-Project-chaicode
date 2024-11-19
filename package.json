@@ -1,0 +1,16 @@
+{
+  "name": "backend-project-big",
+  "version": "1.0.0",
+  "description": "Backend project with learing....",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "mern",
+    "ChaiAurCode"
+  ],
+  "author": "Piyush (Hitesh sir)",
+  "license": "ISC"
+}
